@@ -48,7 +48,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "2",
+            "timeout": "4",
             "slides": [
               {
                 "active": true,
@@ -696,7 +696,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3932.jpg",
+              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3934.jpg",
               "link": "",
               "alt": "",
               "title": "",
