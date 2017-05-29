@@ -310,7 +310,7 @@
               "name": "cursor-click",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://shravansamineni.github.io/Homepage.html",
               "size": "",
               "color": "#553982",
               "newWindow": false
@@ -327,9 +327,10 @@
               "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://shravansamineni.github.io/Homepage.html",
               "size": 0,
-              "color": "#553982"
+              "color": "#553982",
+              "newWindow": false
             }
           },
           "title2": "Service Appointment",
@@ -343,9 +344,10 @@
               "name": "sale",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://shravansamineni.github.io/Homepage.html",
               "size": 0,
-              "color": "#553982"
+              "color": "#553982",
+              "newWindow": false
             }
           },
           "title3": "Finance",
@@ -694,7 +696,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3934.jpg",
               "link": "",
               "alt": "",
               "title": "",
